@@ -1,50 +1,50 @@
-Diabetes: glycaemic control in type 2 (drug treatments)
-Angle-resolved Photoemission Spectroscopy At Ultra-low Temperatures
-Examination of Thymic Positive and Negative Selection by Flow Cytometry
-Use of LysoTracker to Detect Programmed Cell Death in Embryos and Differentiating Embryonic Stem Cells
-TransFLP &#8212; A Method to Genetically Modify Vibrio cholerae Based on Natural Transformation and FLP-recombination
-Structural insights into Transcriptional Repression by non-coding RNAs that bind to Human Pol II
-Post-transcriptional gene regulation by long noncoding RNA
-Mutations in interaction surfaces differentially impact E. coli Hfq association with small RNAs and their mRNA targets
-The non-coding B2 RNA binds to the DNA cleft and active site region of RNA polymerase II
-Antisense-transcript long noncoding RNA (lncRNA) HOTAIR is transcriptionally induced by estradiol
-MicroRNAs and the genetic network in aging
-Dual Posttranscriptional Regulation via a Cofactor-Responsive mRNA Leader
-High-Risk Patients with Hypertension: Clinical Management Options
-The role of miRNAs in regulating gene expression networks
-Locally Delivered Salicylic Acid from a Poly(anhydride-ester): Impact on Diabetic Bone Regeneration
-Characterization of the Human Mitochondrial Thiamine Pyrophosphate Transporter SLC25A19 Minimal Promoter: a Role for NF-Y in Regulating Basal Transcription
-Human Erythropoietin Gene Delivery for Cardiac Remodeling of Myocardial Infarction in Rats
-Loss of Neurons in Rostral Ventromedial Medulla that Express Neurokinin-1 Receptors Decrease the Development of Hyperalgesia
-Guided by RNAs: X-inactivation as a model for lncRNA function
-Neural processing of itch
-HPA-Axis Hormone Modulation of Stress Response Circuitry Activity in Women with Remitted Major Depression
-Active Decorrelation in the Basal Ganglia
-Scratching inhibits serotonin-evoked responses of rat dorsal horn neurons in a site- and state-dependent manner
-Phoenixin: a novel peptide in rodent sensory ganglia
-MicroRNA &#8216;signature&#8217; during estrogen-mediated mammary carcinogenesis and its reversal by ellagic acid intervention
-Clinico-Pathologic Relevance of Survivin Splice Variant Expression in Cancer
-Distinctive Profile of Sudden Cardiac Arrest in Middle-Aged vs. Older Adults: A Community-Based Study
-Minimal NF-&#954;B activity in neurons
-Proteomic Approaches to Analyze Protein Tyrosine Nitration
-S-Nitrosylation of Dynamin-Related Protein 1 Mediates Mutant Huntingtin-Induced Mitochondrial Fragmentation and Neuronal Injury in Huntington's Disease
-Specificity in S-Nitrosylation: A Short-Range Mechanism for NO Signaling?
-The Microglial &#945;7-Acetylcholine Nicotinic Receptor Is a Key Element in Promoting Neuroprotection by Inducing Heme Oxygenase-1 via Nuclear Factor Erythroid-2-Related Factor 2
-S-Nitrosylation: Specificity, Occupancy, and Interaction with Other Post-Translational Modifications
-Effects of Erythrocyte Aging on Nitric Oxide and Nitrite Metabolism
-HNO Enhances SERCA2a Activity and Cardiomyocyte Function by Promoting Redox-Dependent Phospholamban Oligomerization
-Identification of Michael Acceptor-Centric Pharmacophores with Substituents That Yield Strong Thioredoxin Reductase Inhibitory Character Correlated to Antiproliferative Activity
-Generalization of perceptual and motor learning: a causal link with memory encoding and consolidation?
-Protein-L-isoaspartate (D-aspartate) O-Methyltransferase Protects Cardiomyocytes Against Hypoxia Induced Apoptosis Through Inhibiting Proapoptotic Kinase Mst1
-Prognostic Impact of Deficient DNA Mismatch Repair in Patients With Stage III Colon Cancer From a Randomized Trial of FOLFOX-Based Adjuvant Chemotherapy
-Developmental Changes in BDNF Protein in the Song Control Nuclei of Zebra Finches
-The Association between Latrine Use and Trachoma: A Secondary Cohort Analysis from a Randomized Clinical Trial
-Investigation of the in vitro Gender-Specific Partitioning of Mefloquine in Malarial Infected Red Blood Cells and Plasma
-Cross-Sectional Study to Assess Risk Factors for Leishmaniasis in an Endemic Region in Sri Lanka
-In vitro Susceptibility of Leishmania donovani to Miltefosine in Indian Visceral Leishmaniasis
-Gongylonema pulchrum Infection in a Resident of Williamsburg, Virginia, Verified by Genetic Analysis
-Spatial Clustering of Aedes aegypti Related to Breeding Container Characteristics in Coastal Ecuador: Implications for Dengue Control
-Anatomy of the Spermatophore in Triatomines (Hemiptera, Reduviidae, Triatominae) and Its Applications to the Study of Chagas Disease Vector Biology
-Co-Morbid Infections in Hansen's Disease Patients in the United States: Considerations for Treatment
-Exposing Laboratory-Reared Fleas to Soil and Wild Flea Feces Increases Transmission of Yersinia pestis
-Plague Gives Surprises in the First Decade of the 21st Century in the United States and Worldwide
+In ovo Electroporation of miRNA-based Plasmids in the Developing Neural Tube and Assessment of Phenotypes by DiI Injection in Open-book Preparations
+A Low Cost Setup for Behavioral Audiometry in Rodents
+Imaging Analysis of Neuron to Glia Interaction in Microfluidic Culture Platform (MCP)-based Neuronal Axon and Glia Co-culture System
+A Galvanotaxis Assay for Analysis of Neural Precursor Cell Migration Kinetics in an Externally Applied Direct Current Electric Field
+Preparation of Drosophila Central Neurons for in situ Patch Clamping
+Fatty Acids as Therapeutic Auxiliaries for Oral and Parenteral Formulations
+Origins and significance of astrogliosis in the multiple sclerosis model, MOG peptide EAE
+Mesenchymal Stem Cell Transplantation in Multiple Sclerosis
+EFFECTS OF DIETARY PROTEIN ON THE COMPOSITION OF WEIGHT LOSS IN POST-MENOPAUSAL WOMEN
+Curb Challenges of the &#8220;Trojan Horse&#8221; Approach: Smart Strategies in Achieving Effective yet Safe Cell-penetrating Peptide-based Drug Delivery
+Bead Assembly Magnetorotation as a Signal Transduction Method for Protein Detection
+Networks of Task Co-Activations
+Advances in diffusion MRI acquisition and processing in the Human Connectome Project
+White Matter Alterations at 33-Year Follow-Up in Adults with Childhood Attention-Deficit/Hyperactivity Disorder
+The Minimal Preprocessing Pipelines for the Human Connectome Project
+Resting-state FMRI confounds and cleanup
+Resting-state fMRI in the Human Connectome Project
+Mapping Putative Hubs in Human, Chimpanzee (Pan troglodytes) and Rhesus Macaque (Macaca mulatta) Connectomes via Diffusion Tractography
+The WU-Minn Human Connectome Project: An Overview
+Pushing the limits of in vivo diffusion MRI for the Human Connectome Project
+Fusion Protein Linkers: Property, Design and Functionality
+Role of Th17 cells in the pathogenesis of CNS inflammatory demyelination
+Fiber clustering versus the parcellation-based connectome
+SLEEP AND THE FUNCTIONAL CONNECTOME
+Pushing spatial and temporal resolution for functional and diffusion MRI in the Human Connectome Project
+Neurovascular factors in resting-state functional MRI
+Glutathione Reductase Is Essential for Host Defense against Bacterial Infection
+Cyclooxygenase-2 in Newborn Hyperoxic Lung Injury
+RNA nanotechnology for computer design and in vivo computation
+Screening for inhibitors of the hepatitis C virus internal ribosome entry site RNA
+Cyanovanadate(III) complexes as novel additives for efficient generation of volatile cadmium species in complex samples prior to determinations by inductively coupled plasma mass spectrometry (ICP-MS)
+Arsenite-induced ROS/RNS generation causes zinc loss and inhibits the activity of poly (ADP-ribose) polymerase-1
+Adjusting head circumference for covariates in autism: clinical correlates of a highly heritable continuous trait
+Retinotopic maps in the pulvinar of bush baby (Otolemur garnettii)
+Viscous damping and spring force calculation of regularly perforated MEMS microstructures in the Stokes' approximation
+Influences of hydrocarbon linkers on the receptor binding affinities of gonadotropin-releasing hormone peptides
+Early Treatment and HIV-1 Reservoirs: A Stitch in Time?
+The Distribution of HIV DNA and RNA in Cell Subsets Differs in Gut and Blood of HIV-Positive Patients on ART: Implications for Viral Persistence
+Antiretroviral Therapy Initiated Within 6 Months of HIV Infection Is Associated With Lower T-Cell Activation and Smaller HIV Reservoir Size
+Geographic and Temporal Trends in Antimicrobial Nonsusceptibility in Streptococcus pneumoniae in the Post-vaccine era in the United States
+Vaccine-Induced Gag-Specific T Cells Are Associated With Reduced Viremia After HIV-1 Infection
+Highly Pathogenic Avian Influenza A(H5N1) Mutants Transmissible by Air Are Susceptible to Human and Animal Neutralizing Antibodies
+Adipose Tissue and Immune Function: A Review of Evidence Relevant to HIV Infection
+A Novel Calcium-Dependent Protein Kinase Inhibitor as a Lead Compound for Treating Cryptosporidiosis
+Natural Killer Cell&#8211;Mediated Innate Sieve Effect on HIV-1: The Impact of KIR/HLA Polymorphism on HIV-1 Subtype-Specific Acquisition in East Africa
+Estimation of the Association Between Antibody Titers and Protection Against Confirmed Influenza Virus Infection in Children
+Hepatitis C Viremia and the Risk of Chronic Kidney Disease in HIV-Infected Individuals
+The Bardet&#8211;Biedl syndrome-related protein CCDC28B modulates mTORC2 function and interacts with SIN1 to control cilia length independently of the mTOR complex
+A mutation in Tubb2b, a human polymicrogyria gene, leads to lethality and abnormal cortical development in the mouse
+Coronary heart disease is associated with a mutation in mitochondrial tRNA
